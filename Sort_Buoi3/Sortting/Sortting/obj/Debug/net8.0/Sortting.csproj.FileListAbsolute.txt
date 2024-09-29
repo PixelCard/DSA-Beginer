@@ -1,0 +1,14 @@
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\bin\Debug\net8.0\Sortting.exe
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\bin\Debug\net8.0\Sortting.deps.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\bin\Debug\net8.0\Sortting.runtimeconfig.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\bin\Debug\net8.0\Sortting.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\bin\Debug\net8.0\Sortting.pdb
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.AssemblyInfoInputs.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.AssemblyInfo.cs
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.csproj.CoreCompileInputs.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\refint\Sortting.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.pdb
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\Sortting.genruntimeconfig.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\Sort_Buoi3\Sortting\Sortting\obj\Debug\net8.0\ref\Sortting.dll

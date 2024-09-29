@@ -1,0 +1,14 @@
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\bin\Debug\net8.0\LinearSearch_Buoi2.exe
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\bin\Debug\net8.0\LinearSearch_Buoi2.deps.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\bin\Debug\net8.0\LinearSearch_Buoi2.runtimeconfig.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\bin\Debug\net8.0\LinearSearch_Buoi2.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\bin\Debug\net8.0\LinearSearch_Buoi2.pdb
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.AssemblyInfoInputs.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.AssemblyInfo.cs
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.csproj.CoreCompileInputs.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\refint\LinearSearch_Buoi2.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.pdb
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\LinearSearch_Buoi2.genruntimeconfig.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\LinearSearch_Buoi2\LinearSearch_Buoi2\obj\Debug\net8.0\ref\LinearSearch_Buoi2.dll
