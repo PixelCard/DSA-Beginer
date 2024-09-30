@@ -1,0 +1,15 @@
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\bin\Debug\net8.0\DanhSachLienKet.exe
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\bin\Debug\net8.0\DanhSachLienKet.deps.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\bin\Debug\net8.0\DanhSachLienKet.runtimeconfig.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\bin\Debug\net8.0\DanhSachLienKet.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\bin\Debug\net8.0\DanhSachLienKet.pdb
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.AssemblyInfoInputs.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.AssemblyInfo.cs
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.csproj.CoreCompileInputs.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.sourcelink.json
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\refint\DanhSachLienKet.dll
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.pdb
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\DanhSachLienKet.genruntimeconfig.cache
+D:\desktop\Bo\Nam 2\Data Structres and alogrithm pratice\At home\DSLK_Buoi4\DanhSachLienKet\DanhSachLienKet\obj\Debug\net8.0\ref\DanhSachLienKet.dll
