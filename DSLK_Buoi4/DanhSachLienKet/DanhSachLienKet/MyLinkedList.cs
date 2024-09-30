@@ -139,7 +139,7 @@ namespace DanhSachLienKet
                 Console.WriteLine("Mảng rỗng không thể xóa");
                 return;
             }
-            Head = Head.Next;
+            Head = Head.Next; //Mặc định vị trị head luôn là vị trí ở phần tử đầu tiên ta chỉ cần đưa vị trí head qua kế bên phần tử tiếp theo thì sẽ xóa đi được node first trước đó
             return;
         }
 
@@ -151,19 +151,23 @@ namespace DanhSachLienKet
                 Console.WriteLine("Mảng rỗng không thể xóa");
                 return;
             }
-            IntNode truoc = null, sau = Head;
-            while(sau.Next != null)
+            IntNode truoc = null, sau = Head; //Ta khởi tạo 2 node trước và sau
+
+            while(sau.Next != null)           //Ta cho node sau duyệt tới gần phần tử kế với null
             {
-                truoc = sau;
-                sau= sau.Next;
+                truoc = sau;                  //Với node trước sẽ đảm nhận vai trò lưu các phần tử mà node sau đã đi qua
+
+                sau = sau.Next;               //Với node sau sẽ là node tiên phong đi trước để duyệt qua các phần tử trong danh sách
             }
-            if (truoc == null)
+            if (truoc == null)  //Sau khi duyệt xong nếu node chỉ có 1 phần tử
             {
-                Head = null;
+                Head = null;   //Thì ta sẽ xóa luôn node ấy
             }
-            else
+            else //còn nếu node có nhiều phần tử
             {
-                truoc.Next = null;
+                //Thì vị trí hiện tại được mô phỏng sau khi ta đã thực hiện câu lệnh while trên  Node Truoc -> Node sau -> null 
+
+                truoc.Next = null; //sau đó ta chỉ cần đưa Node trước -> null thì mặc định nó sẽ ngắt liên kết với node sau và xóa đi node sau ấy
             }
         }
 
@@ -171,24 +175,29 @@ namespace DanhSachLienKet
         //remove at middle 
         public void RemoveAtMiddle(int pos)
         {
-            if(pos <=0 && pos > Count + 1)
+            if(pos <=0 && pos > Count + 1) 
             {
                 Console.WriteLine("Bạn nhập không chính xác vị trí cần tìm");
                 return;
             }
-            IntNode truoc=null,sau=Head;   
-            for(int i = 1; i < pos; i++)
+            IntNode truoc=null,sau=Head;   //Ta vẫn tạo 2 node truoc va sau 
+
+            for(int i = 1; i < pos; i++) //Với cách duyệt khác với while trên thì ta duyệt từ i=1 -> pos-1 
             {
-                truoc = sau;
+                truoc = sau; //Cho node "trước" sao lưu các phần tử mà node "sau" đã đi qua
                 sau=sau.Next;
             }
-            if(truoc == null)
+
+
+            if(truoc == null) //Sau khi duyệt xong nếu node chỉ có 1 phần tử
             {
-                Head = Head.Next;
+                RemoveFirst(); //thì ta sẽ xóa luôn node ở đầu trùng với node truoc;
             }
-            else
+            else //Còn nếu không thì
             {
-                truoc.Next = sau.Next;
+                //Sau khi duyệt vòng while thì ta thu được hình ảnh như sau node truoc -> node sau-> node X (với X là giá trị bất kì)
+                truoc.Next = sau.Next; //ta xóa đi node middle là node sau thì ta sẽ ngắt đi kết nối nó giữa truoc voi sau
+                                       //ở đây ta cho node truoc -> node X mặc định danh kết nối của truoc sẽ ngắt với node sau và nối đến node X 
             }
         }
 
