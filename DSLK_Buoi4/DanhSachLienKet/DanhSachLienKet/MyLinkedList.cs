@@ -200,7 +200,29 @@ namespace DanhSachLienKet
                                        //ở đây ta cho node truoc -> node X mặc định danh kết nối của truoc sẽ ngắt với node sau và nối đến node X 
             }
         }
+        public void swap(ref IntNode a, ref IntNode b)
+        {
+            int temp = a.Data;
+            a.Data = b.Data;
+            b.Data = temp;
+        }
 
+        //Hàm sắp xếp theo selection sort
+        public void sapxep_SelectionSort()
+        {
+            for (IntNode i = Head; i.Next != null; i = i.Next) //Ta duyệt từ đầu i=vị trí head (0) tới trước null tức nghĩa = n-1  
+            {
+                IntNode min = i; //Ta gắn min là ở vị trí i
+                for (IntNode j = i.Next; j != null; j = j.Next) //Sau đó ta tạo 1 vòng lặp cho j đi từ i+1 đến hết mảng j
+                {
+                    if (j.Data < min.Data) //trong lúc duyệt ta xem thử liệu giá trị của từng phần tử trong j có phần tử nào bé hơn giá trị min không
+                    {
+                        min = j;//có thì ta thay đổi giá trị min là tại vị trí j
+                    }
+                }
+                swap(ref min, ref i); //sau đó ta thay đổi vị trí của giá trị min với giá trị i;
+            }
+        }
         //Hàm xuất ra 1 linked list
         public void ShowList()
         {

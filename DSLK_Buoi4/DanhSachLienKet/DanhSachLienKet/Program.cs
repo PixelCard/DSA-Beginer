@@ -19,7 +19,7 @@ namespace DanhSachLienKet
                                    + "5.    Xóa phần tử ở cuối\n"
                                    + "6.    Xóa phần tử ở giữa\n"
                                    + "7.    Hiển thị ra màn hình các phần tử đã nhập vào danh sách liên kết\n"
-                                   //+"8.    Sap xep cac phan tu trong dslk\n"
+                                   +"8.    Sap xep cac phan tu trong dslk\n"
                                    + "0. Thoat !\n"
                                    + "-------------------------------------\n"
                 );
@@ -35,7 +35,7 @@ namespace DanhSachLienKet
                     int x;
                     x = int.Parse(Console.ReadLine());
                     MList.AddFirst(x);
-                    Console.WriteLine("Bạn đã thêm giá trị {0} vào phần tử ở đầu danh sách thành công",x);
+                    Console.WriteLine("Bạn đã thêm giá trị {0} vào phần tử ở đầu danh sách thành công", x);
                 }
 
                 else if (lc == 2)
@@ -44,7 +44,7 @@ namespace DanhSachLienKet
                     int x;
                     x = int.Parse(Console.ReadLine());
                     MList.AddLast(x);
-                    Console.WriteLine("Bạn đã thêm giá trị {0} vào phần tử ở cuối danh sách thành công",x);
+                    Console.WriteLine("Bạn đã thêm giá trị {0} vào phần tử ở cuối danh sách thành công", x);
                 }
 
                 else if (lc == 3)
@@ -54,8 +54,8 @@ namespace DanhSachLienKet
                     x = int.Parse(Console.ReadLine());
                     Console.Write("Nhập vào vị trí mà bạn muốn chèn:");
                     pos = int.Parse(Console.ReadLine());
-                    MList.InsertAt(pos,x);
-                    Console.WriteLine("Bạn đã chèn giá trị {0} với vị trí {1} danh sách thành công",x,pos);
+                    MList.InsertAt(pos, x);
+                    Console.WriteLine("Bạn đã chèn giá trị {0} với vị trí {1} danh sách thành công", x, pos);
                 }
 
                 else if (lc == 4)
@@ -81,6 +81,11 @@ namespace DanhSachLienKet
                 else if (lc == 7)
                 {
                     MList.ShowList();
+                }
+
+                else if (lc == 8)
+                {
+                    MList.sapxep_SelectionSort();
                 }
                 else
                 {
